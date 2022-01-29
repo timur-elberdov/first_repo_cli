@@ -6,5 +6,8 @@ for i in hello:
 def web:
     pass
 
+def new_content:
+    pass
+
 
     
